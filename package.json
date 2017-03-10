@@ -1,0 +1,16 @@
+{
+  "name": "es6and7",
+  "version": "1.0.0",
+  "description": "Demo ES6 and 7",
+  "main": "arrow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cuong",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
